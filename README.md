@@ -18,7 +18,7 @@
 	开启数据库 => mongod --dbpath='路径'
 	开启express => npm start
 	开启vue => npm run dev
-推荐使用[Robomongo](https://robomongo.org/)[我的博客](http://blog.csdn.net/guodongxiaren)实现数据库可视化
+推荐使用[Robomongo](https://robomongo.org/)实现数据库可视化
 ### 电影数据
 	选择豆瓣电影‘正在放映’的api作为电影数据源:http://api.douban.com/v2/movie/in_theaters
 在vue/config/index.js中设置<br/>
